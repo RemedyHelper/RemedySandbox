@@ -1,0 +1,6 @@
+Sep 27, 2015 8:20:28 PM RemedySandboxDelta.RemedyLoggerNEWAGEBetta passed
+CONFIG: 
+
+	 Remedy Logger Initialized RR
+
+
